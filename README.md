@@ -1,4 +1,4 @@
-# RoboticDog
+# Robotic Dog
 A demo used to to teach the 2D Rigging and Animation Tools in Unity 2019.3
 
 ### Sprite Swap
