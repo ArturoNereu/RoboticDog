@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: RobotSpriteLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Jaw Up
+    m_Hash: -499134276
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 6983782427395704529, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 2890393092652947135, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Jaw Down
+    m_Hash: -1160661895
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 5677015439384701089, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 4139476252124894118, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Neck
+    m_Hash: -2145158803
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 7753142261346995537, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: -2130166764273571329, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Body
+    m_Hash: 2073732236
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 238642673004111997, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: -46152852678120344, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Eye
+    m_Hash: 1245036881
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -1077235587647354424, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 2819605892359158606, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 1 Base
+    m_Hash: 1140468716
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 2196336834013707642, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 7517861238655160792, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 1 Up
+    m_Hash: -1045866763
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -5284464299108293906, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 3671396108464718938, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 1 Down
+    m_Hash: -1615772234
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 5245467285439599490, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: -1644964263148426907, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Left Leg 1 Up
+    m_Hash: -920704001
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -1141376266417782869, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 9012934760557623651, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Left Leg 1 Down
+    m_Hash: 1273669643
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -1010951231245695631, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 4780710926137138364, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 2 Base
+    m_Hash: -982623934
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -6432260399516863132, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 7508313509076957119, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 2 Up
+    m_Hash: -753075941
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 8022353991664182570, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 7467016971791324659, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 2 Down
+    m_Hash: 421869336
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -9018609761514323532, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: -3825317107111301127, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Left Leg 3 Up
+    m_Hash: 1662444404
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -1994841345373846623, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: -3593637831430963866, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Left Leg 3 Down
+    m_Hash: 102893824
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 31321758592537217, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: -3024572370349703338, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 3 Base
+    m_Hash: 238193383
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -3524631402521227528, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 9202777679221958382, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 3 Up
+    m_Hash: 1805688446
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 8022353991664182570, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 9012934760557623651, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}
+  - m_Name: Right Leg 3 Down
+    m_Hash: -763763523
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 2290952167065148192, guid: 22eee3b28ad6fbd45ae0b68afbdeaa2c,
+        type: 3}
+    - m_Name: Damaged
+      m_Hash: 326473335
+      m_Sprite: {fileID: 8459460956441282805, guid: d2e4a34b24f143844afdce971970a9d4,
+        type: 3}

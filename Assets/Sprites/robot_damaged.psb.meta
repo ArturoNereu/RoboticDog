@@ -5561,7 +5561,7 @@ ScriptedImporter:
     uvTransform: {x: -326, y: -21}
   - name: jaw_up
     originalName: 
-    pivot: {x: 0.94167405, y: 0.073836684}
+    pivot: {x: 0.50864977, y: 0.49809572}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
