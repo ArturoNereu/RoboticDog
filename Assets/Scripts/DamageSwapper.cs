@@ -16,14 +16,14 @@ public class DamageSwapper : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.D))
-        {
-            SwapToDamaged();
-        }
-        else if(Input.GetKeyDown(KeyCode.N))
-        {
-            SwapToNormal();
-        }
+        //if(Input.GetKeyDown(KeyCode.D))
+        //{
+        //    SwapToDamaged();
+        //}
+        //else if(Input.GetKeyDown(KeyCode.N))
+        //{
+        //    SwapToNormal();
+        //}
     }
 
     void SwapToDamaged()
